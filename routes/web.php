@@ -16,4 +16,9 @@ Route::get('/o-nama', 'PagesController@about');
 Route::get('/usluge', 'PagesController@services');
 Route::get('/proizvodi', 'PagesController@products');
 Route::get('/kontakt', 'PagesController@contact');
+
 Route::post('/kontakt/posalji', 'MessagesController@submit');
+
+Route::get('sendbasicemail','MailController@basic_email');
+Route::get('sendhtmlemail','MailController@html_email');
+Route::get('sendattachmentemail','MailController@attachment_email');

@@ -26,16 +26,13 @@
       <div class="row">
             <div class="futer-div col-lg-12 col-md-12 col-sm-12">
                 <div class="col-lg-3 col-md-3 col-sm-3">
-                    <p class="futer-paragraf">Стефана Дечанског 131</p>
-                    <p class="futer-paragraf">76300, Бијељина</p>
+                    <p style="font-size: 16px; margin-top:50px; margin-left: 80px;"><strong>Стефана Дечанског 131</strong></p>
+                    <p style="font-size: 16px; margin-left: 80px;"><strong>76300, Бијељина</strong></p>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-4">
-                   <iframe style="padding:10px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2833.089167120444!2d19.1945529!3d44.7585962!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475be8d9ea7c5217%3A0x30205130403c35f9!2z0KHRgtC10YTQsNC90LAg0JTQtdGH0LDQvdGB0LrQvtCzIDEzMSwg0JHQuNGY0LXRmdC40L3QsCA3NjMwMCwg0JHQvtGB0L3QsCDQuCDQpdC10YDRhtC10LPQvtCy0LjQvdCw!5e0!3m2!1ssr!2srs!4v1539954714503" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>  
+                   <iframe style="padding-top:10px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2833.089167120444!2d19.1945529!3d44.7585962!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475be8d9ea7c5217%3A0x30205130403c35f9!2z0KHRgtC10YTQsNC90LAg0JTQtdGH0LDQvdGB0LrQvtCzIDEzMSwg0JHQuNGY0LXRmdC40L3QsCA3NjMwMCwg0JHQvtGB0L3QsCDQuCDQpdC10YDRhtC10LPQvtCy0LjQvdCw!5e0!3m2!1ssr!2srs!4v1539954714503" width="300" height="225" frameborder="0" style="border:0" allowfullscreen></iframe>  
                 </div>
             </div>
-        </div>  
-    <footer id="footer" class="text-center">
-		<p>Copyright &copy;<?php echo(' ') . date('Y') . "."?></p>
-	</footer>
+        </div>
     </body>
 </html>

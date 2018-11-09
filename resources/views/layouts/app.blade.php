@@ -14,7 +14,7 @@
         </div>
         <hr>
         <div class="container">
-            <div class="col-lg-12 col-md-12 col-sm-12" style="background-image: url('https://www.intercotire.com/sites/default/files/styles/news_page_image/public/biasvsradial_0.jpg?itok=i1TjBkCq'); height:300px; border-radius: 18px;">
+            <div class="col-lg-12 col-md-12 col-sm-12" style="background-image: url('https://www.intercotire.com/sites/default/files/styles/news_page_image/public/biasvsradial_0.jpg?itok=i1TjBkCq'); height:200px; border-radius: 18px;">
             	@include('inc.navbar')
             </div>
         </div>

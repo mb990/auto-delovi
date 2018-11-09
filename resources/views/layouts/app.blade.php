@@ -19,7 +19,7 @@
             </div>
         </div>
         <hr>
-        <div class="container" style="color:white;">
+        <div class="container col-lg-8 col-md-8 col-sm-8" style="color: white; float:none; margin: 0 auto;"> 
             @include('inc.messages')
         	@yield('content')
         </div>
@@ -35,7 +35,7 @@
             </div>
         </div>  
     <footer id="footer" class="text-center">
-		<p>Copyright &copy; Спаса <?php echo date('Y') . "."?></p>
+		<p>Copyright &copy;<?php echo(' ') . date('Y') . "."?></p>
 	</footer>
     </body>
 </html>
